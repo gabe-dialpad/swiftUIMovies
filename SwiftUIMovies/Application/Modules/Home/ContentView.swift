@@ -1,15 +1,8 @@
-//
-//  ContentView.swift
-//  SwiftUIMovies
-//
-//  Created by Gabriel Rosa on 1/22/21.
-//
-
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, Movies!")
             .padding()
     }
 }
