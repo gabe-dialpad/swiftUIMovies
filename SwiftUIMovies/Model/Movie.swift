@@ -1,6 +1,6 @@
 import Foundation
 
-struct Movie: Decodable {
+public struct Movie: Decodable {
     let id: Int
     let title: String
     let original_title: String
